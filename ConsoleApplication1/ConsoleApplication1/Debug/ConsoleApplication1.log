@@ -1,0 +1,95 @@
+﻿  ConsoleApplication1.cpp
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2146: 语法错误: 缺少“;”(在标识符“hwnd”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“hInst”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“szTitle”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2086: “int WCHAR”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): note: 参见“WCHAR”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2146: 语法错误: 缺少“;”(在标识符“szWindowClass”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2146: 语法错误: 缺少“;”(在标识符“MyRegisterClass”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): error C2146: 语法错误: 缺少“;”(在标识符“InitInstance”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): error C2146: 语法错误: 缺少“;”(在标识符“CALLBACK”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): error C2146: 语法错误: 缺少“;”(在标识符“CALLBACK”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C2146: 语法错误: 缺少“;”(在标识符“RefreshTriangle”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2146: 语法错误: 缺少“;”(在标识符“wWinMain”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2146: 语法错误: 缺少“)”(在标识符“hInstance”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2086: “int ATOM”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): note: 参见“ATOM”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2146: 语法错误: 缺少“;”(在标识符“MyRegisterClass”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(72): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(72): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(101): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(101): error C2086: “int BOOL”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): note: 参见“BOOL”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(101): error C2146: 语法错误: 缺少“;”(在标识符“InitInstance”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(102): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(102): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(138): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(138): error C2086: “int LRESULT”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): note: 参见“LRESULT”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(138): error C2146: 语法错误: 缺少“;”(在标识符“CALLBACK”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(139): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(139): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(180): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(180): error C2086: “int INT_PTR”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): note: 参见“INT_PTR”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(180): error C2146: 语法错误: 缺少“;”(在标识符“CALLBACK”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(181): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(181): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(260): error C2061: 语法错误: 标识符“COLORREF”
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(268): error C2065: “HDC”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(268): error C2146: 语法错误: 缺少“;”(在标识符“dc”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(268): error C2065: “dc”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(268): error C2065: “hwnd”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(268): error C3861: “GetWindowDC”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(283): error C2065: “dc”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(283): error C2065: “color”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(283): error C3861: “SetPixel”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(299): error C2065: “dc”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(299): error C2065: “color”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(299): error C3861: “SetPixel”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(304): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(304): error C2086: “int VOID”: 重定义
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): note: 参见“VOID”的声明
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(304): error C2146: 语法错误: 缺少“;”(在标识符“RefreshTriangle”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(305): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(305): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(329): error C2065: “RECT”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(329): error C2146: 语法错误: 缺少“;”(在标识符“rect”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(329): error C2065: “rect”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(330): error C2065: “hwnd”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(330): error C2065: “rect”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(330): error C3861: “GetWindowRect”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(331): error C2065: “HDC”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(331): error C2146: 语法错误: 缺少“;”(在标识符“dc”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(331): error C2065: “dc”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(331): error C2065: “hwnd”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(331): error C3861: “GetWindowDC”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(333): error C2065: “COLORREF”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(333): error C2146: 语法错误: 缺少“;”(在标识符“color”的前面)
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(333): error C2065: “color”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(333): error C3861: “RGB”: 找不到标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(334): error C2065: “rect”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(334): error C2228: “.left”的左边必须有类/结构/联合
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(334): note: 类型是“unknown-type”
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(334): error C2228: “.right”的左边必须有类/结构/联合
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(334): note: 类型是“unknown-type”
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): error C2065: “rect”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): error C2228: “.top”的左边必须有类/结构/联合
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): note: 类型是“unknown-type”
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): error C2228: “.bottom”的左边必须有类/结构/联合
+  d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): note: 类型是“unknown-type”
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(338): error C2065: “dc”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(338): error C2065: “color”: 未声明的标识符
+d:\learning\triangle\consoleapplication1\consoleapplication1\consoleapplication1.cpp(338): error C3861: “SetPixel”: 找不到标识符
