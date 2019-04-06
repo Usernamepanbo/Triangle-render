@@ -1,0 +1,19 @@
+﻿  WindowsProject1.cpp
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(31): error C2065: “IDS_APP_TITLE”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(32): error C2065: “IDC_WINDOWSPROJECT2”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(41): error C2065: “IDC_WINDOWSPROJECT2”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(76): error C2065: “IDI_WINDOWSPROJECT2”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(79): error C2065: “IDC_WINDOWSPROJECT2”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(81): error C2065: “IDI_SMALL”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(134): error C2065: “IDM_ABOUT”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(134): error C2131: 表达式的计算结果不是常数
+  d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(134): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(134): note: 请参见“IDM_ABOUT”的用法
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(135): error C2065: “IDD_ABOUTBOX”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(137): error C2065: “IDM_EXIT”: 未声明的标识符
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(137): error C2131: 表达式的计算结果不是常数
+  d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(137): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(137): note: 请参见“IDM_EXIT”的用法
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(134): error C2051: case 表达式不是常量
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(137): error C2051: case 表达式不是常量
+d:\learning\triangle\windowsproject1\windowsproject1\windowsproject1.cpp(142): warning C4065: switch 语句包含“default”但是未包含“case”标签
