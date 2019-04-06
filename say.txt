@@ -1,0 +1,12 @@
+git init
+git status
+git add aaa.txt
+git commit -m "aaa"
+git pull origin master       git pull
+git push -u origin master    git push origin master
+
+拉取别人代码
+git clone git@github.....
+
+删除代码
+git rm aaa.txt
