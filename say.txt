@@ -10,3 +10,9 @@ git clone git@github.....
 
 删除代码
 git rm aaa.txt
+git commit -m ""
+git pull
+git push origin master
+
+添加文件夹
+git add 文件夹
